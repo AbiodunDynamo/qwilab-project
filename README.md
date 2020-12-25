@@ -1,2 +1,2 @@
 # qwilab-project
-just qwicklab assessment
+just qwicklab assessment, am editig readme file
